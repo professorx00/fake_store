@@ -1,0 +1,47 @@
+{
+  "name": "art_store",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@chakra-ui/react": "^2.3.4",
+    "@emotion/react": "^11.10.4",
+    "@emotion/server": "^11.10.0",
+    "@emotion/styled": "^11.10.4",
+    "@mantine/carousel": "^5.3.2",
+    "@mantine/core": "^5.3.2",
+    "@mantine/dates": "^5.3.2",
+    "@mantine/dropzone": "^5.3.2",
+    "@mantine/form": "^5.3.2",
+    "@mantine/hooks": "^5.3.2",
+    "@mantine/modals": "^5.3.2",
+    "@mantine/next": "^5.3.2",
+    "@mantine/notifications": "^5.3.2",
+    "@mantine/nprogress": "^5.3.2",
+    "@mantine/prism": "^5.3.2",
+    "@mantine/rte": "^5.3.2",
+    "@mantine/spotlight": "^5.3.2",
+    "@tabler/icons": "^1.96.0",
+    "bcrypt": "^5.0.1",
+    "dayjs": "^1.11.5",
+    "embla-carousel-react": "^7.0.3",
+    "formik": "^2.2.9",
+    "framer-motion": "^7.3.6",
+    "luxon": "^3.0.3",
+    "mongoose": "^6.6.1",
+    "next": "12.3.0",
+    "next-auth": "^4.10.3",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "yup": "^0.32.11"
+  },
+  "devDependencies": {
+    "eslint": "8.23.1",
+    "eslint-config-next": "12.3.0"
+  }
+}
